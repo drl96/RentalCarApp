@@ -12,15 +12,15 @@ RentalCarApp is a mobile app for android that allows users to view information o
 
 ### View Rental Car Information:
 
-![CarInfo](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarInfo1.PNG)![CarSelected](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarInfo2.PNG)
+![CarInfo1](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarInfo1.PNG)![CarInfo2](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarInfo2.PNG)
 
 ### Calculate Total Rental Cost:
 
-![DailyCostUpdated](https://github.com/drl96/RentalCarApp/blob/master/Resources/DailyCostUpdated.PNG)![TotalCost](https://github.com/drl96/RentalCarApp/blob/master/Resources/TotalCost.PNG)
+![TotalCost1](https://github.com/drl96/RentalCarApp/blob/master/Resources/TotalCost1.PNG)![TotalCost2](https://github.com/drl96/RentalCarApp/blob/master/Resources/TotalCost2.PNG)
 
 ### Update Rental Cost-per-day:
 
-![DailyCostUpdate1](C:\GitHub\RentalCarApp\Resources\DailyCostUpdate2.PNG)
+![DailyCostUpdate1](https://github.com/drl96/RentalCarApp/blob/master/Resources/DailyCostUpdate1.PNG)![DailyCostUpdate2](https://github.com/drl96/RentalCarApp/blob/master/Resources/DailyCostUpdate2.PNG)
 
 ## Rental Cars JSON:
 
