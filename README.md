@@ -14,9 +14,13 @@ RentalCarApp is a mobile app for android that allows users to view information o
 
 ![CarInfo](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarInfo.PNG)![CarSelected](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarSelected.PNG)
 
-### Calculate Total Rental Cost and Update Cost-per-day:
+### Calculate Total Rental Cost:
 
 ![DailyCostUpdated](https://github.com/drl96/RentalCarApp/blob/master/Resources/DailyCostUpdated.PNG)![TotalCost](https://github.com/drl96/RentalCarApp/blob/master/Resources/TotalCost.PNG)
+
+### Update Rental Cost-per-day:
+
+![DailyCostUpdate1](C:\GitHub\RentalCarApp\Resources\DailyCostUpdate2.PNG)
 
 ## Rental Cars JSON:
 
