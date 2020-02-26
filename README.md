@@ -12,7 +12,7 @@ RentalCarApp is a mobile app for android that allows users to view information o
 
 ### View Rental Car Information:
 
-![CarInfo](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarInfo.PNG)![CarSelected](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarSelected.PNG)
+![CarInfo](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarInfo1.PNG)![CarSelected](https://github.com/drl96/RentalCarApp/blob/master/Resources/CarInfo2.PNG)
 
 ### Calculate Total Rental Cost:
 
