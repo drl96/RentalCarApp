@@ -1,6 +1,6 @@
 # Rental Car Application - Android
 
-## Technologies used:
+## Technologies Used:
 
 Java, JSON, Firebase Realtime Database, REST API, Andriod Studio
 
